@@ -11,6 +11,7 @@ dependencies:
   - rasterio
   - netcdf4
   - matplotlib
+  - numpy<1.24
   - pytest
   - tensorflow-gpu>=2.0.0, <2.6.0
   - keras
